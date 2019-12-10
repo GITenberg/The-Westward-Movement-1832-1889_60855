@@ -1,5 +1,8 @@
 _repo: The-Westward-Movement-1832-1889_60855
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60855-h/images/cover.jpg
 creator:
   editors:
   - agent_name: Woodress, James Leslie
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51163
     wikipedia: https://en.wikipedia.org/wiki/Richard_B._Morris
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60855#The-Westward-Movement-1832-1889
 gutenberg_issued: '2019-12-06'
 gutenberg_type: Text
 identifiers:
